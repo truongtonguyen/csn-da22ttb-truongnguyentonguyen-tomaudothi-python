@@ -2,10 +2,10 @@
 
 ## Mục lục
 
-1. Giới thiệu
-2. Chức năng
-3. Cách cài đặt
-4. Liên hệ
+1. [Giới thiệu](https://github.com/truongtonguyen/csn-da22ttb-truongnguyentonguyen-tomaudothi-python?tab=readme-ov-file#gi%E1%BB%9Bi-thi%E1%BB%87u)
+2. [Chức năng](https://github.com/truongtonguyen/csn-da22ttb-truongnguyentonguyen-tomaudothi-python/edit/main/README.md#ch%E1%BB%A9c-n%C4%83ng)
+3. [Cách cài đặt](https://github.com/truongtonguyen/csn-da22ttb-truongnguyentonguyen-tomaudothi-python/edit/main/README.md#c%C3%A1ch-c%C3%A0i-%C4%91%E1%BA%B7t)
+4. [Liên hệ](https://github.com/truongtonguyen/csn-da22ttb-truongnguyentonguyen-tomaudothi-python/edit/main/README.md#li%C3%AAn-h%E1%BB%87)
 ## Giới thiệu
 - Tô màu đồ thị là một bài toán trong Lý thuyết đồ thị, có không ít thuật toán mô phỏng giải thuật tô màu đồ thị mà ta có thể tìm được. Tuy nhiên, nếu có thể kết hợp với đồ họa, việc tô màu cho đồ thị sẽ càng trực quan hơn.
 - Mục tiêu của đề tài là xây dựng một giao diện đồ họa thân thiện, cho phép người dùng nhập vào đồ thị và xem kết quả tô màu.
