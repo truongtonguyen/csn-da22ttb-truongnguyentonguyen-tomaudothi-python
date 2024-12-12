@@ -1,2 +1,3 @@
 # csn-da22ttb-truongnguyentonguyen-tomaudothi-python
-Giới thiệu
+PHẦN GIỚI THIỆU
+Họ và tên: Trương Nguyễn Tố Nguyên
