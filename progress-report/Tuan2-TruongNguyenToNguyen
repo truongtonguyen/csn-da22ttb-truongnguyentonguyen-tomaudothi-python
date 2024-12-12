@@ -1,0 +1,11 @@
+                                                                                  BÁO CÁO TUẦN
+Tên đề tài: Viết chương trình mô phỏng giải thuật tô màu đồ thị
+Giảng viên hướng dẫn: Trầm Hoàng Nam
+Sinh viên thực hiện: Trương Nguyễn Tố Nguyên 
+Mã số sinh viên: 110122127  - Mã lớp: DA22TTB
+Những việc đã làm trong tuần trước: 
+  -Tìm hiểu về các thành phần giao diện của Tkinter.
+  -Thiết kế giao diện đồ họa cho phép người dùng nhập đỉnh và cạnh của đồ thị, vẽ đồ thị.
+Những việc dự định làm trong tuần tới:
+  -Hoàn thiện thêm giao diện đồ họa, bổ sung tính năng nhập ma trận kề.
+  -Tích hợp giải thuật tô màu vào giao diện.
