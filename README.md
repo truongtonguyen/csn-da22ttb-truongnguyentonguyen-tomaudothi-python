@@ -3,7 +3,7 @@
 ## Mục lục
 
 1. [Giới thiệu](https://github.com/truongtonguyen/csn-da22ttb-truongnguyentonguyen-tomaudothi-python?tab=readme-ov-file#gi%E1%BB%9Bi-thi%E1%BB%87u)
-2. [Chức năng]()
+2. [Chức năng](https://github.com/truongtonguyen/csn-da22ttb-truongnguyentonguyen-tomaudothi-python/blob/main/README.md#ch%E1%BB%A9c-n%C4%83ng)
 3. [Cách cài đặt]()
 4. [Liên hệ]()
 ## Giới thiệu
