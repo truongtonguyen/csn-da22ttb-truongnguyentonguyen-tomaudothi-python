@@ -17,4 +17,4 @@ Chạy chương trình trong ứng dụng Python hoặc ứng dụng khác có h
 
 Ví dụ: sử dụng Visual Studio Code, đặt tên file có đuôi là .py hoặc .ipynb (dùng jupyter).
 ## Liên hệ
-Trương Nguyễn Tố Nguyên: truongtonhu12@gmail.com
+Trương Nguyễn Tố Nguyên: truongtonhu12@gmail.com - 0911048533
