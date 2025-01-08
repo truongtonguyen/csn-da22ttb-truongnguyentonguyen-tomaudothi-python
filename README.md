@@ -15,6 +15,6 @@
 ## Cách cài đặt
 Chạy chương trình trong ứng dụng Python hoặc môi trường khác có hỗ trợ ngôn ngữ Python. 
 
-Ví dụ: sử dụng Visual Studio Code, đặt tên file có đuôi là .py (dùng Python) hoặc .ipynb (dùng Jupyter Notebook).
+Ví dụ: sử dụng Visual Studio Code, cài đặt các gói mở rộng, đặt tên file có đuôi là .py (dùng Python) hoặc .ipynb (dùng Jupyter Notebook) để chạy chương trình.
 ## Liên hệ
 Trương Nguyễn Tố Nguyên: truongtonhu12@gmail.com - 0911048533
